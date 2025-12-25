@@ -66,4 +66,5 @@ function sendPost() {
             alert("Error sending data.");
         }
     });
+
 }
