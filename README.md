@@ -1,4 +1,3 @@
-
 # Radius 📡
 
 This project documents the development of **Radius**, a hyper-local, decentralized disaster relief platform. It focuses on connecting people in immediate proximity during crises by enabling real-time resource sharing and SOS broadcasting without relying on complex external infrastructure.
