@@ -1,0 +1,18 @@
+body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background-color: #f0f2f5; }
+.container { max-width: 800px; margin: 0 auto; padding: 20px; }
+h1, h2 { text-align: center; color: #333; }
+
+/* Dashboard Map */
+#map { height: 500px; width: 100%; border-radius: 12px; margin-top: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+
+/* Cards */
+.card { background: white; padding: 15px; margin-bottom: 12px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); display: flex; justify-content: space-between; align-items: center; }
+.badge { padding: 5px 10px; border-radius: 4px; color: white; font-weight: bold; font-size: 0.8rem; text-transform: uppercase; }
+.REQUEST { background-color: #e74c3c; } /* Red */
+.OFFER { background-color: #27ae60; }   /* Green */
+
+/* Mobile Form */
+.form-box { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
+input, select { width: 100%; padding: 15px; margin: 10px 0; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box; font-size: 16px; }
+button { width: 100%; padding: 15px; background-color: #3498db; color: white; border: none; border-radius: 8px; font-size: 18px; font-weight: bold; cursor: pointer; }
+button:active { background-color: #2980b9; }
