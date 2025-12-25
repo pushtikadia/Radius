@@ -62,4 +62,4 @@ You can run the platform locally by following these steps:
 ---
 <p align="center">
   <b> Radius </b> • Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
-</p
+</p>
