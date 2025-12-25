@@ -103,4 +103,6 @@ def get_nearby(lat: float, lon: float, radius_km: float = 9999):
             })
     
     results.sort(key=lambda x: x['distance_km'])
+
     return results
+    
