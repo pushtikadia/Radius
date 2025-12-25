@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Radius Mobile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Radius Mobile</h2>
+        <div class="form-box">
+            <label><b>Status</b></label>
+            <select id="type">
+                <option value="REQUEST">I Need Help (SOS)</option>
+                <option value="OFFER">I Have Resources</option>
+            </select>
+            
+            <label><b>Description</b></label>
+            <input type="text" id="item" placeholder="e.g. Water, Insulin">
+            
+            <button onclick="sendPost()">Broadcast Location</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
