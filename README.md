@@ -59,3 +59,4 @@ You can run the platform locally by following these steps:
 * **HTML5/CSS3:** Semantic markup and responsive design.
 * **JavaScript (ES6):** Async/Await logic and DOM manipulation.
 
+*Created by [Pushti Kadia](https://github.com/pushtikadia)*
